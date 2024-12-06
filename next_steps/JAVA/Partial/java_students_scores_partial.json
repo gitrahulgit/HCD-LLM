@@ -1,0 +1,5361 @@
+[
+    {
+        "iterationNumber": 1,
+        "students": [
+            {
+                "Student ID": "1",
+                "Overall Marks": 42,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 9
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "2",
+                "Overall Marks": 30,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 18
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 5
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 6
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 2
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 3
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 1
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "3",
+                "Overall Marks": 20,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 10
+                    },
+                    "1.1 Book Management": {
+                        "total": 4
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 3
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 3
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 1
+                    },
+                    "2.2 Inheritance": {
+                        "total": 1
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 2
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 2
+                    }
+                }
+            },
+            {
+                "Student ID": "4",
+                "Overall Marks": 20,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 10
+                    },
+                    "1.1 Book Management": {
+                        "total": 4
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 3
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 3
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "5",
+                "Overall Marks": 15,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 5
+                    },
+                    "1.1 Book Management": {
+                        "total": 2
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 3
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 0
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 0
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "6",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 7
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 3
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "7",
+                "Overall Marks": 35,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 20
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 5
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 7
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 2
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 2
+                    },
+                    "3. Exception Handling": {
+                        "total": 3
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 2
+                    },
+                    "4.1 Save Data": {
+                        "total": 1
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "8",
+                "Overall Marks": 28,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 15
+                    },
+                    "1.1 Book Management": {
+                        "total": 6
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 0
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 2
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 1
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "9",
+                "Overall Marks": 35,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 18
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 4
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 1
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 2
+                    },
+                    "3. Exception Handling": {
+                        "total": 3
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "10",
+                "Overall Marks": 35,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 20
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 5
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 2
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 3
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 2
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "11",
+                "Overall Marks": 5,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 0
+                    },
+                    "1.1 Book Management": {
+                        "total": 0
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 0
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 0
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 0
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 0
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 0
+                    }
+                }
+            },
+            {
+                "Student ID": "12",
+                "Overall Marks": 40,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 7
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 3
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "13",
+                "Overall Marks": 40,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 9
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 2
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 3
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 4
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 3
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "14",
+                "Overall Marks": 28,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 15
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 5
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 2
+                    },
+                    "3. Exception Handling": {
+                        "total": 3
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 2
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 3
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "15",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 7
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "iterationNumber": 2,
+        "students": [
+            {
+                "Student ID": "1",
+                "Overall Marks": 40,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 9
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "2",
+                "Overall Marks": 30,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 18
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 5
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 6
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 1
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "3",
+                "Overall Marks": 20,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 10
+                    },
+                    "1.1 Book Management": {
+                        "total": 4
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 3
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 3
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 4
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 2
+                    },
+                    "2.2 Inheritance": {
+                        "total": 1
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 4
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 4
+                    }
+                }
+            },
+            {
+                "Student ID": "4",
+                "Overall Marks": 20,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 10
+                    },
+                    "1.1 Book Management": {
+                        "total": 4
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 3
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 3
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "5",
+                "Overall Marks": 15,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 7
+                    },
+                    "1.1 Book Management": {
+                        "total": 2
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 5
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 3
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 3
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 3
+                    }
+                }
+            },
+            {
+                "Student ID": "6",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 7
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 2
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 3
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 4
+                    }
+                }
+            },
+            {
+                "Student ID": "7",
+                "Overall Marks": 35,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 19
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 5
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 6
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 3
+                    },
+                    "3. Exception Handling": {
+                        "total": 3
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 2
+                    },
+                    "4.1 Save Data": {
+                        "total": 1
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 2
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "8",
+                "Overall Marks": 28,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 15
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 2
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 1
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "9",
+                "Overall Marks": 35,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 19
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 5
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 1
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "10",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 4
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 2
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 2
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "11",
+                "Overall Marks": 5,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 0
+                    },
+                    "1.1 Book Management": {
+                        "total": 0
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 0
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 0
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 0
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "12",
+                "Overall Marks": 40,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 9
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 4
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "13",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 9
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 5
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 4
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 3
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 4
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 4
+                    }
+                }
+            },
+            {
+                "Student ID": "14",
+                "Overall Marks": 28,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 15
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 6
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 3
+                    },
+                    "3. Exception Handling": {
+                        "total": 3
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "15",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 7
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "iterationNumber": 3,
+        "students": [
+            {
+                "Student ID": "1",
+                "Overall Marks": 40,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 9
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "2",
+                "Overall Marks": 30,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 18
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 4
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 2
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 4
+                    },
+                    "3. Exception Handling": {
+                        "total": 3
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 2
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "3",
+                "Overall Marks": 20,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 10
+                    },
+                    "1.1 Book Management": {
+                        "total": 4
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 3
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 3
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 2
+                    },
+                    "2.2 Inheritance": {
+                        "total": 1
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 2
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 2
+                    }
+                }
+            },
+            {
+                "Student ID": "4",
+                "Overall Marks": 20,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 10
+                    },
+                    "1.1 Book Management": {
+                        "total": 3
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 3
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 4
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 2
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 2
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 3
+                    }
+                }
+            },
+            {
+                "Student ID": "5",
+                "Overall Marks": 15,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 8
+                    },
+                    "1.1 Book Management": {
+                        "total": 2
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 6
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 3
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 3
+                    }
+                }
+            },
+            {
+                "Student ID": "6",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 3
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "7",
+                "Overall Marks": 35,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 20
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 5
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 5
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 2
+                    },
+                    "3. Exception Handling": {
+                        "total": 3
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 2
+                    },
+                    "4.1 Save Data": {
+                        "total": 1
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "8",
+                "Overall Marks": 28,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 15
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 3
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 3
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "9",
+                "Overall Marks": 35,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 19
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 5
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 2
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 2
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 1
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "10",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 5
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 2
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 3
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "11",
+                "Overall Marks": 5,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 0
+                    },
+                    "1.1 Book Management": {
+                        "total": 0
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 0
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 0
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 0
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 0
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 0
+                    }
+                }
+            },
+            {
+                "Student ID": "12",
+                "Overall Marks": 42,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 9
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "13",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 7
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 4
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "14",
+                "Overall Marks": 28,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 15
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 5
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 1
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "15",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 7
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "iterationNumber": 4,
+        "students": [
+            {
+                "Student ID": "1",
+                "Overall Marks": 42,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 9
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 3
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "2",
+                "Overall Marks": 28,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 18
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 4
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 2
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 2
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 1
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "3",
+                "Overall Marks": 20,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 10
+                    },
+                    "1.1 Book Management": {
+                        "total": 4
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 3
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 3
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 2
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 2
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 1
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 3
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 3
+                    }
+                }
+            },
+            {
+                "Student ID": "4",
+                "Overall Marks": 20,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 10
+                    },
+                    "1.1 Book Management": {
+                        "total": 4
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 3
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 3
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "5",
+                "Overall Marks": 15,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 5
+                    },
+                    "1.1 Book Management": {
+                        "total": 2
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 3
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 3
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "6",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 9
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "7",
+                "Overall Marks": 35,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 20
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 5
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 7
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 2
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 2
+                    },
+                    "3. Exception Handling": {
+                        "total": 3
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 2
+                    },
+                    "4.1 Save Data": {
+                        "total": 1
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 2
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "8",
+                "Overall Marks": 28,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 15
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 5
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 2
+                    },
+                    "3. Exception Handling": {
+                        "total": 3
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 5
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 1
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "9",
+                "Overall Marks": 35,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 19
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 5
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 2
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 1
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 1
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "10",
+                "Overall Marks": 35,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 20
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 5
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 5
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 2
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 2
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 2
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 2
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "11",
+                "Overall Marks": 5,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 0
+                    },
+                    "1.1 Book Management": {
+                        "total": 0
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 0
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 0
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 0
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 0
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 0
+                    }
+                }
+            },
+            {
+                "Student ID": "12",
+                "Overall Marks": 42,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 9
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "13",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 7
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 6
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 3
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 5
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 1
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "14",
+                "Overall Marks": 28,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 16
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 0
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 5
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 1
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 3
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 2
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 1
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "15",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 7
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 2
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "iterationNumber": 5,
+        "students": [
+            {
+                "Student ID": "1",
+                "Overall Marks": 40,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 9
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "2",
+                "Overall Marks": 30,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 18
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 4
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 3
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "3",
+                "Overall Marks": 20,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 10
+                    },
+                    "1.1 Book Management": {
+                        "total": 4
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 3
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 3
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 1
+                    },
+                    "2.2 Inheritance": {
+                        "total": 1
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 2
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 1
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 3
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 3
+                    }
+                }
+            },
+            {
+                "Student ID": "4",
+                "Overall Marks": 20,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 10
+                    },
+                    "1.1 Book Management": {
+                        "total": 4
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 3
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 3
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 2
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 2
+                    }
+                }
+            },
+            {
+                "Student ID": "5",
+                "Overall Marks": 15,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 5
+                    },
+                    "1.1 Book Management": {
+                        "total": 2
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 3
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 1
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 0
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 0
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "6",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 7
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 2
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "7",
+                "Overall Marks": 35,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 20
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 6
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 7
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 2
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 2
+                    },
+                    "4.1 Save Data": {
+                        "total": 1
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "8",
+                "Overall Marks": 28,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 15
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 8
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "9",
+                "Overall Marks": 35,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 20
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 5
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 1
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "10",
+                "Overall Marks": 35,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 20
+                    },
+                    "1.1 Book Management": {
+                        "total": 7
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 2
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 2
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "11",
+                "Overall Marks": 5,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 0
+                    },
+                    "1.1 Book Management": {
+                        "total": 0
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 0
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 0
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 0
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 0
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 0
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 0
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 0
+                    },
+                    "4.1 Save Data": {
+                        "total": 0
+                    },
+                    "4.2 Load Data": {
+                        "total": 0
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 0
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 0
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 0
+                    },
+                    "6. Code Formatting": {
+                        "total": 0
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 0
+                    }
+                }
+            },
+            {
+                "Student ID": "12",
+                "Overall Marks": 42,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 9
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 7
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 6
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "13",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 8
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 7
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 7
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 4
+                    },
+                    "3. Exception Handling": {
+                        "total": 5
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 1
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 4
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 1
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "14",
+                "Overall Marks": 28,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 15
+                    },
+                    "1.1 Book Management": {
+                        "total": 6
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 0
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 0
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 3
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 0
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 0
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 0
+                    },
+                    "3. Exception Handling": {
+                        "total": 2
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 1
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 1
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 1
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 2
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 1
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            },
+            {
+                "Student ID": "15",
+                "Overall Marks": 38,
+                "modules": {
+                    "1. Implementation of Core Functionalities": {
+                        "total": 22
+                    },
+                    "1.1 Book Management": {
+                        "total": 9
+                    },
+                    "1.2 Borrower Management": {
+                        "total": 6
+                    },
+                    "1.3 Transaction Handling": {
+                        "total": 7
+                    },
+                    "2. Use of OOP Principles": {
+                        "total": 8
+                    },
+                    "2.1 Classes and Objects": {
+                        "total": 3
+                    },
+                    "2.2 Inheritance": {
+                        "total": 3
+                    },
+                    "2.3 Polymorphism": {
+                        "total": 1
+                    },
+                    "2.4 Encapsulation": {
+                        "total": 1
+                    },
+                    "3. Exception Handling": {
+                        "total": 4
+                    },
+                    "3.1 Use of Try-Catch Blocks": {
+                        "total": 2
+                    },
+                    "3.2 Custom Exception Class": {
+                        "total": 2
+                    },
+                    "3.3 Edge Case Handling": {
+                        "total": 0
+                    },
+                    "4. File I/O Implementation": {
+                        "total": 3
+                    },
+                    "4.1 Save Data": {
+                        "total": 2
+                    },
+                    "4.2 Load Data": {
+                        "total": 2
+                    },
+                    "4.3 File Handling Robustness": {
+                        "total": 0
+                    },
+                    "5. Code Efficiency and Quality": {
+                        "total": 3
+                    },
+                    "5.1 Efficient Algorithms": {
+                        "total": 2
+                    },
+                    "5.2 Adherence to Java Naming Conventions": {
+                        "total": 1
+                    },
+                    "6. Code Formatting": {
+                        "total": 5
+                    },
+                    "6.1 Code Readability and Indentation": {
+                        "total": 5
+                    }
+                }
+            }
+        ]
+    }
+]

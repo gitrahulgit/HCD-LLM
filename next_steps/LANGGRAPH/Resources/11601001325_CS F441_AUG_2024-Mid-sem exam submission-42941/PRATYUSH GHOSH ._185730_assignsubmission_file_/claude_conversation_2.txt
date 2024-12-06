@@ -1,0 +1,59 @@
+ Start new chat
+
+    Projects
+
+Starred
+Star projects and chats you use often
+Recents
+
+Troubleshooting KeyError in Workflow Result
+Customizable Java Coding Prompts
+Extract Java Classes from Code and Model Solution
+(New chat)
+(New chat)
+Java Class Extraction from Student Code
+Java Class Extraction Prompt
+
+    Greeting and Assistance
+
+View all
+Professional plan
+Help & support
+PG
+from langchain.chat_models import ChatOpenAI from langchain.schema import HumanMessage from langchain.prompts import PromptTemplate from langgraph.graph import StateGraph, END from typing import Typed
+pasted
+PG
+
+i forgot to add a field for question the question for the java code to be coded by the student can be anything modify all the necessary nodes/prmopts so that this works with any questions do not remove any nodes or edges
+
+Certainly, I'll modify the necessary nodes and prompts to make the system work with any Java coding question. I'll update the relevant parts of the code to include the question field and adjust the prompts accordingly.
+
+I've made the following changes to accommodate any Java coding question:
+
+    Added a question field to the State class.
+    Updated the extract_classes_template to include the question.
+    Modified the extract_rubric_template to incorporate the question.
+    Updated the evaluate_template to include the question in the evaluation process.
+    Modified the review_template to include the question for context.
+    Updated the run_evaluation function to accept a question parameter.
+    Added a question variable in the example usage.
+
+These changes allow the evaluation system to work with any Java coding question. The question is now included in various stages of the evaluation process, providing context for the extraction, evaluation, and review steps.
+
+The overall structure of the graph and the workflow remain the same, but now it can handle different types of Java coding questions. The evaluator and reviewer will have access to the specific question, allowing them to provide more accurate and context-aware feedback.
+
+Is there anything else you'd like me to modify or explain about these changes?
+Claude can make mistakes. Please double-check responses.
+
+
+Chat controls
+3.5 Sonnet
+
+Most intelligent model Learn more
+Artifacts
+
+Content
+
+Chat styles
+Font
+

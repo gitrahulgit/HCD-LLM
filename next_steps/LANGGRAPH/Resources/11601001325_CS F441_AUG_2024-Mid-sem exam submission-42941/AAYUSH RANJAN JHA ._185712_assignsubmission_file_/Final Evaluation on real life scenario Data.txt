@@ -1,0 +1,47 @@
+### LibrarySystem Class
+1. **Main Method and Program Flow (35/35)**
+   - The main method and program flow meet all the criteria specified in the rubric. The menu display and loop function correctly, user input is handled and validated accurately, and the code quality and style are good. Well done!
+
+2. **addBook Method (20/20)**
+   - The addBook method functions as expected. It prompts for book details, validates input, creates and adds a new book to the library, handles duplicate book IDs appropriately, and maintains good code quality and style.
+
+3. **borrowBook Method (17/17)**
+   - The borrowBook method prompts for a book ID, checks its existence and borrow status, updates the borrow status accordingly, handles scenarios where the book is already borrowed or not found, and follows good code quality and style practices.
+
+4. **returnBook Method (12/12)**
+   - The returnBook method prompts for a book ID, checks its existence and borrow status, updates the borrow status, confirms the return, and maintains good code quality and style throughout.
+
+5. **displayAvailableBooks Method (12/12)**
+   - The displayAvailableBooks method correctly iterates over the library map, displays available books with proper formatting, handles situations with no available books, and follows good code quality and style guidelines.
+
+6. **Use of Collections Framework (5/5)**
+   - The use of HashMap to store books and efficiently manage them is implemented correctly within the LibrarySystem class.
+
+7. **Exception Handling and Input Validation (5/5)**
+   - Exception handling to prevent crashes and user-friendly messages for errors or invalid input are appropriately included in the code.
+
+**Final Assessment for LibrarySystem Class: 96/96**
+Overall, the LibrarySystem Class meets or exceeds all criteria with excellent performance, code quality, and functionality.
+
+### Book Class
+1. **Class Declaration and Fields (9/9)**
+   - The Book class is declared outside the LibrarySystem class with private fields for bookID, title, and isBorrowed, using proper access modifiers and naming conventions.
+
+2. **Constructor (5/5)**
+   - The constructor correctly initializes the Book object with the provided bookID and title, setting isBorrowed to false by default.
+
+3. **Getters and Setter (10/10)**
+   - Getters and setter methods for bookID, title, and isBorrowed are implemented correctly, allowing access to these private fields while maintaining encapsulation.
+
+4. **Overriding toString Method (3/3)**
+   - The toString method is overridden to provide a meaningful representation of a Book object in the desired format.
+
+5. **Code Quality and Style (5/5)**
+   - The code for the Book class is well-structured, formatted properly, includes meaningful names and comments, and maintains encapsulation through access modifiers.
+
+**Final Assessment for Book Class: 32/32**
+The Book Class meets all criteria with high quality in structure, functionality, and style.
+
+Great job on both classes, meeting all expectations and standards!
+
+Total Grade: 128.0

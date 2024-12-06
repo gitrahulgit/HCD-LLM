@@ -1,0 +1,193 @@
+ Start new chat
+
+    Projects
+
+Starred
+Star projects and chats you use often
+Recents
+
+Troubleshooting KeyError in Workflow Result
+Customizable Java Coding Prompts
+Extract Java Classes from Code and Model Solution
+(New chat)
+(New chat)
+Java Class Extraction from Student Code
+Java Class Extraction Prompt
+
+    Greeting and Assistance
+
+View all
+Professional plan
+Help & support
+PG
+from langchain.chat_models import ChatOpenAI from langchain.schema import HumanMessage from langchain.prompts import PromptTemplate from langgraph.graph import StateGraph, END from typing import Typed
+pasted
+PG
+Review Result:
+---------------------------------------------------------------------------
+KeyError                                  Traceback (most recent call last)
+Cell In[49], line 393
+    391 print(result['evaluation_result'])
+    392 print("\nReview Result:")
+--> 393 print(result['review_result'])
+    394 print("\nFinal Score:")
+    395 print(result['final_score'])
+
+KeyError: 'review_result'
+
+It appears that there's an error in the code execution, specifically when trying to access the 'review_result' key from the result dictionary. This suggests that the 'review_result' key is not being properly set during the execution of the workflow. Let's analyze the issue and propose a solution:
+
+    Error Analysis: The error occurs because the code is trying to access a 'review_result' key that doesn't exist in the result dictionary. This could happen if the review step is not being executed or if the result of the review is not being properly stored.
+    Potential Causes: a. The review node might not be getting executed in some cases. b. The 'review_result' key might not be initialized in the initial state. c. There could be a mismatch between the key names used in different parts of the code.
+    Proposed Solution: Let's modify the code to ensure that the 'review_result' key is always present in the state, even if the review step hasn't been executed. We'll do this by initializing it in the input state and updating the review_evaluation function to always set this key.
+
+Here's how we can modify the code:
+
+    Update the run_evaluation function to initialize the 'review_result' key:
+
+python
+
+def run_evaluation(student_code: str, model_solution: str, full_rubric: str) -> State:
+    inputs = {
+        "student_code": student_code,
+        "model_solution": model_solution,
+        "full_rubric": full_rubric,
+        "extracted_classes": "",
+        "extracted_rubric": "",
+        "evaluation_result": "",
+        "review_result": "",  # Initialize this key
+        "review_count": 0,
+        "final_score": 0
+    }
+    result = app.invoke(inputs)
+    return result
+
+    Modify the review_evaluation function to always set the 'review_result' key:
+
+python
+
+def review_evaluation(state: State) -> State:
+    formatted_prompt = review_prompt.format(
+        evaluation_result=state['evaluation_result']
+    )
+    message = HumanMessage(content=formatted_prompt)
+    response = chat_model.invoke([message])
+    state['review_result'] = response.content
+    state['review_count'] += 1
+    return state
+
+    Update the is_evaluation_good function to handle cases where 'review_result' might be empty:
+
+python
+
+def is_evaluation_good(state: State) -> str:
+    if state['review_result'] and "Overall Assessment: Good" in state['review_result']:
+        return "good"
+    elif state['review_count'] >= 2:
+        return "max_reviews"
+    else:
+        return "needs_improvement"
+
+These changes should ensure that the 'review_result' key is always present in the state, even if the review step hasn't been executed. This should resolve the KeyError you're encountering.
+
+After making these changes, try running the evaluation again. If you still encounter issues, it might be helpful to add some debug print statements in the workflow nodes to track the state at each step. This can help identify where the process might be deviating from the expected flow.
+PG
+
+im still getting the error
+
+I apologize for the continued error. Let's take a closer look at the workflow and try to identify why the 'review_result' key isn't being set. We'll add some debugging steps to trace the execution flow and state changes.
+
+    First, let's modify the review_evaluation function to include some debug printing:
+
+python
+
+def review_evaluation(state: State) -> State:
+    print("Entering review_evaluation function")
+    formatted_prompt = review_prompt.format(
+        evaluation_result=state['evaluation_result']
+    )
+    message = HumanMessage(content=formatted_prompt)
+    response = chat_model.invoke([message])
+    state['review_result'] = response.content
+    state['review_count'] += 1
+    print(f"review_result set to: {state['review_result'][:100]}...")  # Print first 100 chars
+    print(f"review_count: {state['review_count']}")
+    return state
+
+    Let's also add some debug printing to the is_evaluation_good function:
+
+python
+
+def is_evaluation_good(state: State) -> str:
+    print("Entering is_evaluation_good function")
+    print(f"review_result: {state.get('review_result', 'Not found')[:100]}...")
+    print(f"review_count: {state.get('review_count', 'Not found')}")
+    if state.get('review_result') and "Overall Assessment: Good" in state['review_result']:
+        return "good"
+    elif state.get('review_count', 0) >= 2:
+        return "max_reviews"
+    else:
+        return "needs_improvement"
+
+    Modify the run_evaluation function to print the final state:
+
+python
+
+def run_evaluation(student_code: str, model_solution: str, full_rubric: str) -> State:
+    inputs = {
+        "student_code": student_code,
+        "model_solution": model_solution,
+        "full_rubric": full_rubric,
+        "extracted_classes": "",
+        "extracted_rubric": "",
+        "evaluation_result": "",
+        "review_result": "",
+        "review_count": 0,
+        "final_score": 0
+    }
+    result = app.invoke(inputs)
+    print("Final state:")
+    for key, value in result.items():
+        print(f"{key}: {value[:100] if isinstance(value, str) else value}")
+    return result
+
+    Now, let's run the evaluation again with these debug prints:
+
+python
+
+result = run_evaluation(student_code, model_solution, full_rubric)
+print("\nAccessing result keys:")
+print("Evaluation Result:")
+print(result.get('evaluation_result', 'Not found')[:100])
+print("\nReview Result:")
+print(result.get('review_result', 'Not found')[:100])
+print("\nFinal Score:")
+print(result.get('final_score', 'Not found'))
+print("\nNumber of Reviews:")
+print(result.get('review_count', 'Not found'))
+
+This debugging approach will help us understand:
+
+    If the review_evaluation function is being called
+    What values are being set for 'review_result' and 'review_count'
+    The final state of the result dictionary
+
+After adding these debug prints, run the evaluation again. The output should give us a clearer picture of what's happening during the execution. Based on that information, we can determine:
+
+    If the review step is being skipped entirely
+    If the review step is executing but not setting the 'review_result' key
+    If there's an issue with the conditional logic in is_evaluation_good
+
+Once we have this information, we can make more targeted fixes to resolve the issue. Please run the code with these changes and share the debug output, and we'll be able to identify the root cause of the problem.
+Claude can make mistakes. Please double-check responses.
+
+
+Chat controls
+3.5 Sonnet
+
+Most intelligent model Learn more
+Content
+
+Chat styles
+Font
+
