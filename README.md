@@ -1,4 +1,4 @@
-# LLM Exam Project
+# HCD-LLM Project
 
 This repository contains resources for evaluating student solutions using a modular approach and a complete rubric approach. The structure is designed for both Java and LangGraph (lg) programming exercises, including solutions, student submissions, detailed rubric, evaluation reports, and scripts to process the reports/results.
 
